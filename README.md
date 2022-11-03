@@ -1,7 +1,10 @@
 <img align="center" width="100%" height="100%" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
 <h1 align="center">Hi 👋, I'm Haresh Akalanka</h1>
 <h4 align="center">IT Undergraduate at University of Moratuwa</h4>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihakalanka&label=Profile%20views&color=0e75b6&style=flat" alt="ihakalanka" /> </p>
+
+
 
 <h2 align="left"><b>🙋‍♂️ About Me</b></h2>
 
@@ -11,6 +14,7 @@
 - 💬 Ask me about **react, Golang, spring boot, and NodeJS**
 
 - 📫 How to reach me **akalankaih19@gmail.com**
+
 
 <h2 align="left">🌐 Connect with me</h2>
 <br/>
