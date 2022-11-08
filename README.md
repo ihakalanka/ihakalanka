@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **akalankaih19@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://main--cheery-starlight-cf5763.netlify.app)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://haresh-akalanka.netlify.app)**
 
 
 <h2 align="left">🌐 Connect with me</h2>
