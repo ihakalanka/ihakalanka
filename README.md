@@ -51,6 +51,7 @@
 <br/>
 <h2 align="left"><b>⚡ Recent GitHub Activities</b></h2>
   <br/>
-   <a href="https://github.com/ihakalanka"><img alt="ihakalanka Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ihakalanka&custom_title=Haresh's%20Contribution%20Graph&theme=dracula" /></a> 
+   
+   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ihakalanka&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
  <br/>
