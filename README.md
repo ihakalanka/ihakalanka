@@ -14,6 +14,8 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://haresh-akalanka.netlify.app)**
 
+- 📝 I regularly write articles on **[Medium](https://medium.com/@akalankaih19)**
+
 
 <h2 align="left">🌐 Connect with me</h2>
 <br/>
