@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Haresh Akalanka</h1>
 <h4 align="center">IT Undergraduate at University of Moratuwa</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ihakalanka&label=Profile%20views&color=0e75b6&style=flat" alt="ihakalanka" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ihakalanka&label=Profile%20views&color=0e75b6&style=flat" alt="ihakalanka" /> </p>-->
+<!-- Write your comments here -->
 
 <h2 align="left"><b>🙋‍♂️ About Me</b></h2>
 
