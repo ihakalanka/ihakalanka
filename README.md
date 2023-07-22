@@ -6,7 +6,6 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ihakalanka&label=Profile%20views&color=0e75b6&style=flat" alt="ihakalanka" /> </p>-->
 <!-- Write your comments here -->
 
-
 <h2 align="left"><b>🙋‍♂️ About Me</b></h2>
 
 - 🔭 I’m currently working on **my portfolio**
