@@ -55,6 +55,5 @@
 <h2 align="left"><b>⚡ Recent GitHub Activities</b></h2>
 
   <br/>
-   
    [![](https://github-readme-activity-graph.vercel.app/graph?username=ihakalanka&theme=Default)](https://github.com/ashutosh00710/github-readme-activity-graph)
  <br/>
