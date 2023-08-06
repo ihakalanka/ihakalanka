@@ -52,7 +52,6 @@
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Haresh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ihakalanka&theme=dracula&stroke=0000&background=060A0CD0" />
 </p>   
 
-
 <br/>
 <h2 align="left"><b>⚡ Recent GitHub Activities</b></h2>
 
