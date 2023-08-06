@@ -18,7 +18,6 @@
 
 - 📝 I regularly write articles on **[Medium](https://medium.com/@akalankaih19)**
 
-
 <h2 align="left">🌐 Connect with me</h2>
 <br/>
 
