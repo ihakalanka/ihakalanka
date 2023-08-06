@@ -22,7 +22,6 @@
 <h2 align="left">🌐 Connect with me</h2>
 <br/>
 
-
 <p align="left">
 <a href="https://linkedin.com/in/haresh-akalanka-7259b41aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haresh-akalanka-7259b41aa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15007784/haresh-akalanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15007784/haresh-akalanka" height="30" width="40" /></a>
