@@ -13,20 +13,20 @@
 - 💬 Ask me about **react, Golang, spring boot, and NodeJS**
 
 - 📫 How to reach me **akalankaih19@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://haresh-akalanka.netlify.app)**
-
-- 📝 I regularly write articles on **[Medium](https://medium.com/@akalankaih19)**
+  
+- 👨‍💻 All of my projects are available at **<a href="https://haresh-akalanka.netlify.app" target="_blank">My Portfolio</a>**
+  
+- 📝 I regularly write articles on **<a href="https://medium.com/@akalankaih19" target="_blank">Medium</a>**
 
 <h2 align="left">🌐 Connect with me</h2>
 <br/>
 
 <p align="left">
-<a href="https://linkedin.com/in/haresh-akalanka-7259b41aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haresh-akalanka-7259b41aa" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15007784/haresh-akalanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15007784/haresh-akalanka" height="30" width="40" /></a>
-<a href="https://fb.com/haresh.akalanka.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haresh.akalanka.9" height="30" width="40" /></a>
-<a href="https://medium.com/@akalankaih19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akalankaih19" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ihakalanka19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ihakalanka19" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/haresh-akalanka-7259b41aa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haresh-akalanka-7259b41aa" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15007784/haresh-akalanka" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15007784/haresh-akalanka" height="30" width="40" /></a>
+<a href="https://fb.com/haresh.akalanka.9" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haresh.akalanka.9" height="30" width="40" /></a>
+<a href="https://medium.com/@akalankaih19" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akalankaih19" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ihakalanka19" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ihakalanka19" height="30" width="40" /></a>
 </p>
 
 <br/>
