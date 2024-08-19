@@ -8,9 +8,9 @@
 
 <h2 align="left"><b>🙋‍♂️ About Me</b></h2>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **microservice architecture**
 
-- 💬 Ask me about **react, Golang, spring boot, and NodeJS**
+- 💬 Ask me about **React, Golang, Spring Boot, and Node.js**
 
 - 📫 How to reach me **akalankaih19@gmail.com**
   
